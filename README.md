@@ -15,7 +15,7 @@ ___
 
 ___
 
-![Brenno github stats](https://github-readme-stats.vercel.app/api?username=Aszurar&show_icons=true&hide_border=true)
+![Brenno github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true)
 
 ## :information_source: Sobre
   
