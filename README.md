@@ -8,8 +8,8 @@ ___
 
 
 <h3 align="center">
-  <a href="#information_source-sobre" target="_blank>Sobre</a>&nbsp;|&nbsp;
-  <a href="https://www.instagram.com/caiovictors_/">Social</a>&nbsp;|&nbsp;
+  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/caiovictors_/" target="_blank>Social</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
 </h3>
 
