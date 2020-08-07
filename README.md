@@ -16,8 +16,8 @@ ___
 ___
 
 ![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true) <a href="https://github.com/caiovictors/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&layout=compact&hide=jupyter%20notebook" />
-</a><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&layout=compact&hide=jupyter%20notebook" />
+</a>
 
 ## :information_source: Sobre
   
