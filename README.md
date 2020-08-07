@@ -25,6 +25,7 @@ ___
 ## :interrobang: Social
 
 - :e-mail: Fale comigo ; **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)**
+<a href='https://www.linkedin.com/in/caio-victor-do-amaral-cunha-sarmento-9779a21b0/'><img width="50" height="40" padding-right='10' src='https://image.flaticon.com/icons/svg/174/174857.svg'/></a> 
 
 ## :rocket: Tecnologias Utilizadas
 
