@@ -15,7 +15,9 @@ ___
 
 ___
 
-![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true)
+![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true) <a href="https://github.com/lucasmsa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsa&layout=compact&hide=jupyter%20notebook" />
+</a>
 
 ## :information_source: Sobre
   
@@ -33,7 +35,7 @@ ___
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/caiovictors)](https://github.com/caiovictors)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brennogf)](https://github.com/brennogf)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brennogf)](https://github.com/brennogf)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/caiovictors)](https://github.com/caiovictors)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/caiovictors)](https://github.com/caiovictors)
 
 
 
