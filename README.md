@@ -15,9 +15,8 @@ ___
 
 ___
 
-![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true) <a href="https://github.com/caiovictors/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&layout=compact&hide=jupyter%20notebook&hide_border=true" />
-</a>
+![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true) 
+<a href="https://github.com/caiovictors/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&layout=compact&hide=jupyter%20notebook&hide_border=true"/></a>
 
 ## :information_source: Sobre
   
