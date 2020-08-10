@@ -32,8 +32,6 @@ ___
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/caiovictors)](https://github.com/caiovictors) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/caiovictors)](https://github.com/caiovictors) [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/caiovictors)](https://github.com/caiovictors)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/caiovictors)](https://github.com/caiovictors)
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/caiovictors)](https://github.com/caiovictors)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/caiovictors)](https://github.com/caiovictors)
 
 ### Redes Sociais 👓
