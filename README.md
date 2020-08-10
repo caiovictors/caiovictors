@@ -41,6 +41,6 @@ ___
 |  <a href="https://github.com/caiovictors/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Caio Victor Sarmento](https://github.com/caiovictors/)**                                                                                |
-|<a href="https://twitter.com/caiovictors"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/caiovictors_/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/caiovictorss"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/caio-victor-do-amaral-cunha-sarmento-9779a21b0/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+|</a> <a href="https://www.instagram.com/caiovictors_/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/caiovictorss"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/caio-victor-do-amaral-cunha-sarmento-9779a21b0/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caiovictors)
