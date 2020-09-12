@@ -3,7 +3,7 @@
 ___
 
 <p align="center"; border-radius=50%>
-  <img src="https://scontent.fjpa1-1.fna.fbcdn.net/v/t1.0-9/36829589_1572631762842731_4415226229964144640_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_eui2=AeETyP2HaMm6TZaN0cAAHWOSxjTZd_tYpm3GNNl3-1imba61tzTCFseg4lIsTDyd6D_Ac6ajjmtsP-UPWdbJruZt&_nc_ohc=-4nXE8FOhMcAX8baWkb&_nc_ht=scontent.fjpa1-1.fna&oh=1dbcd93ef5e5c6616caf4b963aa6c3a3&oe=5F4D9DCA" width="300" heigth="300">
+  <img src="https://avatars0.githubusercontent.com/u/12973109?s=400&u=60291abcd4d1705cdbd40240ca7173cc28cd688e&v=4" width="300" heigth="300">
 </p>
 
 
