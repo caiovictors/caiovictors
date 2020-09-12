@@ -9,7 +9,7 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Social</a>&nbsp;|&nbsp;
+  <a href="#interrobang-social">Social</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
 </h3>
 
