@@ -9,7 +9,7 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-social">Social</a>&nbsp;|&nbsp;
+  <a href="#interrobang-contato">Contato</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
 </h3>
 
@@ -22,7 +22,7 @@ ___
   
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
 
-## :interrobang: Social
+## :interrobang: Contato
 
 - :e-mail: Fale comigo ; **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
 
