@@ -18,6 +18,7 @@ ___
   <span>
     <a href="https://github.com/caiovictors/github-readme-stats"/><img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=vue&layout=compact&hide_border=true"/>
  </span>
+ ___
 
 ## :information_source: Sobre
   
