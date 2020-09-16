@@ -2,8 +2,8 @@
 
 ___
 
-<p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/12973109?s=400&u=60291abcd4d1705cdbd40240ca7173cc28cd688e&v=4" width="300" heigth="300"><img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
+<p align="center"; border-radius=50%>
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/hello_world.gif" width="300" heigth="300">
 </p>
 
 
@@ -15,7 +15,7 @@ ___
 
 ___
 <p align="center">
-  <a href="https://github.com/caiovictors">
+  <a href="https://github.com/caiovictors"
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=vue&layout=compact&langs_count=8" />
   </a>
