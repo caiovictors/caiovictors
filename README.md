@@ -19,7 +19,9 @@ ___
 
 ## :information_source: Sobre
   
-🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
+🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
+💻 Programador em C, Python, JavaScript, React, React-Native.
+🖊 Photoshop e Lightroom avançado, habilidades em After Effects, Blender e Illustrator.
 
 ## :interrobang: Contato
 
