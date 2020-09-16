@@ -1,9 +1,7 @@
 <h2 align="center">Perfil</h2>
-___
-<p align="center"; border-radius=50%>
+<p align="center">
   <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/hello_world.gif" width="300" heigth="300">
 </p>
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-contato">Contato</a>&nbsp;|&nbsp;
@@ -13,7 +11,7 @@ ___
 ___
 <p align="center">
   <a href="https://github.com/caiovictors"
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioVictorS&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=vue&layout=compact&langs_count=8" />
   </a>
 </p>
