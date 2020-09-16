@@ -25,7 +25,7 @@ ___
 
 ## ✉ Contato
 
-- :e-mail: Fale comigo ; **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
+- :e-mail: Fale comigo: **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
 
 ## :rocket: Tecnologias Utilizadas
 
