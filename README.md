@@ -2,8 +2,8 @@
 
 ___
 
-<p align="center"; border-radius=50%>
-  <img src="https://avatars0.githubusercontent.com/u/12973109?s=400&u=60291abcd4d1705cdbd40240ca7173cc28cd688e&v=4" width="300" heigth="300">
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/12973109?s=400&u=60291abcd4d1705cdbd40240ca7173cc28cd688e&v=4" width="300" heigth="300"><img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
 
 
