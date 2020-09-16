@@ -16,8 +16,8 @@ ___
 ___
 <p align="center">
   <a href="https://github.com/caiovictors">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=radical&layout=compact&langs_count=8" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=vue&layout=compact&langs_count=8" />
   </a>
 </p>
  ___
