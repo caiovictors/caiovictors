@@ -14,10 +14,12 @@ ___
 </h3>
 
 ___
-  ![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=caiovictors&show_icons=true&hide_border=true) 
-  <span>
-    <a href="https://github.com/caiovictors/github-readme-stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=vue&layout=compact&hide_border=true"/>
- </span>
+  <p align="center">
+    <a href="https://github.com/caiovictors">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=radical&layout=compact&langs_count=8" />
+    </a>
+  </p>
  ___
 
 ## :information_source: Sobre
