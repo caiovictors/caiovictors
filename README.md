@@ -23,7 +23,7 @@ ___
 💻 Programador em C, Python, JavaScript, React, React-Native. </br>
 🖊 Photoshop e Lightroom avançado, habilidades em After Effects, Blender e Illustrator.
 
-## :interrobang: Contato
+## ✉ Contato
 
 - :e-mail: Fale comigo ; **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
 
