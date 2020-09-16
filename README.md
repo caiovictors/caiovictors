@@ -1,11 +1,8 @@
 <h2 align="center">Perfil</h2>
-
 ___
-
 <p align="center"; border-radius=50%>
   <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/hello_world.gif" width="300" heigth="300">
 </p>
-
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
