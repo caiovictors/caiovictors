@@ -35,7 +35,7 @@ ___
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/caiovictors)](https://github.com/caiovictors)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/caiovictors)](https://github.com/caiovictors)
 
-## 👓 Redes Sociais 
+## 📱 Redes Sociais 
 
 |  <a href="https://github.com/caiovictors/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
