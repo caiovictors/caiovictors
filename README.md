@@ -9,9 +9,9 @@
 </h3>
 </br>
 <p align="center">
-<a href="https://github.com/CaioVictorS">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioVictorS&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVictorS&theme=vue&layout=compact&langs_count=15" />
+<a href="https://github.com/caiovictors/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=radical&layout=compact&langs_count=10" />
 </a>
 </p>
 
