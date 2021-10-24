@@ -17,29 +17,52 @@
 
 ___
 
-## :information_source: Sobre
+## :information_source: About
   
-🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
-💻 Programador em C, Python, JavaScript, React, React-Native. </br>
-🖊 Photoshop e Lightroom avançado, habilidades em After Effects, Blender e Illustrator.
+🎓 **Computer Engineering @[Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
+💻 **Software developer @Inatel**  </br>
+💻 **FrontEnd developer @Vlibras/Lavid - UFPB**  </br>
 
-## ✉ Contato
+## ✉ Contact
 
-- :e-mail: Fale comigo: **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
+- :e-mail: **[cvsarmento@hotmail.com](mailto://cvsarmento@hotmail.com)** 
 
-## :rocket: Tecnologias Utilizadas
+## :rocket: Technologies
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/caiovictors)](https://github.com/caiovictors) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/caiovictos)](https://github.com/caiovictors) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/caiovictors)](https://github.com/caiovictors) 
+### Code
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/caiovictors)](https://github.com/caiovictors) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/caiovictors)](https://github.com/caiovictors) [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/caiovictors)](https://github.com/caiovictors)
+### Design
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/caiovictors)](https://github.com/caiovictors)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/caiovictors)](https://github.com/caiovictors)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![image](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)
+![image](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📱 Redes Sociais 
 
-|  <a href="https://github.com/caiovictors/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+## 📱 Social
+|  <a href="https://github.com/caiovictors/"><img src="https://avatars.githubusercontent.com/u/12973109?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Caio Victor Sarmento](https://github.com/caiovictors/)**                                                                                |
 |</a> <a href="https://www.instagram.com/caiovictors_/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/caiovictorss"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/caio-victor-do-amaral-cunha-sarmento-9779a21b0/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+
+<a href="https://steamcommunity.com/id/caiovictors"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caiovictors)
