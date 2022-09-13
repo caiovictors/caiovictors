@@ -20,8 +20,7 @@ ___
 ## :information_source: About
   
 🎓 **Computer Engineering @[Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
-💻 **Software developer @Inatel**  </br>
-💻 **FrontEnd developer @Vlibras/Lavid - UFPB**  </br>
+💻 **Full Stack developer @Refera**  </br>
 
 ## ✉ Contact
 
