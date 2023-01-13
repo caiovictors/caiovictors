@@ -1,19 +1,16 @@
 <h2 align="center">Perfil</h2>
-<p align="center">
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/hello_world.gif" width="300" heigth="300">
-</p>
+<div align="center" >
+  
+  <img src="https://user-images.githubusercontent.com/12973109/212395262-454fcfc0-7fc5-4942-a358-36efcf9c0436.gif" width="300" heigth="40">
+
+</div>
+
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-contato">Contato</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
+  <a href="#information_source-sobre">About</a>&nbsp;|&nbsp;
+  <a href="#interrobang-contato">Contact</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Technologies</a>&nbsp;
 </h3>
 </br>
-<p align="center">
-<a href="https://github.com/caiovictors/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovictors&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictors&theme=radical&layout=compact&langs_count=10" />
-</a>
-</p>
 
 ___
 
