@@ -1,14 +1,16 @@
 <h2 align="center">Perfil</h2>
 <div align="center" >
   
-  <img src="https://user-images.githubusercontent.com/12973109/212395262-454fcfc0-7fc5-4942-a358-36efcf9c0436.gif" width="300" heigth="40">
+![giphy](https://user-images.githubusercontent.com/12973109/212396910-90226fee-260a-40d7-a7dc-cf57e698b706.gif)
+
 
 </div>
 
 <h3 align="center">
-  <a href="#information_source-sobre">About</a>&nbsp;|&nbsp;
-  <a href="#interrobang-contato">Contact</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Technologies</a>&nbsp;
+  <a href="#information_source-about">About</a>&nbsp;|&nbsp;
+  <a href="#-contact">Contact</a>&nbsp;|&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;|&nbsp;
+  <a href="#-social">Social</a>&nbsp;
 </h3>
 </br>
 
