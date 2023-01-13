@@ -19,7 +19,7 @@ ___
 ## :information_source: About
   
 🎓 **Computer Engineering @[Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
-💻 **Full Stack developer @Refera**  </br>
+💻 **Full Stack developer [@Refera](https://github.com/Refera-Tech)**  </br>
 
 ## ✉ Contact
 
