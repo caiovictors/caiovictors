@@ -13,7 +13,14 @@
   <a href="#-social">Social</a>&nbsp;
 </h3>
 </br>
-
+<div align="center" >
+  
+ ![Snake animation](https://github.com/caiovictors/caiovictors/blob/output/github-contribution-grid-snake.svg)
+ 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/caiovictors/count.svg" />
+ </div>
+ </br>
 ___
 
 ## :information_source: About
