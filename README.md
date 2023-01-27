@@ -53,7 +53,7 @@ ___
 ![image](https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=black)
 
 * 📐 Design <br><br>
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Figma-03011c?style=for-the-badge&logo=figma&logoColor=a259ff)</a>
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)
 ![image](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
