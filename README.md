@@ -51,6 +51,8 @@ ___
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![image](https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=black)
+![image](https://img.shields.io/badge/Styled_Components-DE7496?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
 
 * 📐 Design <br><br>
 ![image](https://img.shields.io/badge/Figma-03011c?style=for-the-badge&logo=figma&logoColor=a259ff)</a>
