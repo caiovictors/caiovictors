@@ -66,9 +66,9 @@ ___
 ![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 * 🖥 Workspace Spec<br><br>
-![image](https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![image](https://img.shields.io/badge/NVIDIA-GTX1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![image](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/ryzen_5_7600x-ec5401?style=for-the-badge&logo=amd&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-GTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](	https://img.shields.io/badge/razer-001900?style=for-the-badge&logo=razer&logoColor=green)
 
 ## 📱 Social
