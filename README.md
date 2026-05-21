@@ -1,4 +1,4 @@
-<h2 align="center">Perfil</h2>
+<h2 align="center">Profile</h2>
 <div align="center" >
   
 ![giphy](https://user-images.githubusercontent.com/12973109/212396910-90226fee-260a-40d7-a7dc-cf57e698b706.gif)
@@ -13,12 +13,6 @@
   <a href="#-social">Social</a>&nbsp;
 </h3>
 </br>
-<div align="center" >
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/caiovictors/count.svg" />
- </div>
- </br>
-___
 
 ## :information_source: About
   
