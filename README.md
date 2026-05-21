@@ -23,7 +23,7 @@ ___
 ## :information_source: About
   
 🎓 **Computer Engineering @[Universidade Federal da Paraíba](https://www.ufpb.br/)** </br>
-💻 **Full Stack developer [@Refera](https://github.com/Refera-Tech)**  </br>
+💻 **Full Stack developer**  </br>
 
 ## ✉ Contact
 
@@ -37,7 +37,10 @@ ___
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Next.js-080808?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/tailwind%20Css-0e1424?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![image](https://img.shields.io/badge/Radix%20ui-6d28d9?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
